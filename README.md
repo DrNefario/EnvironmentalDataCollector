@@ -26,34 +26,34 @@ RTC
 What I have come up with is the following parts list:
 
 (Already Purchased)
-Mega2560 - R2 - 25.00 - No longer manufactured
-20W 12V Solar panel - 32.09 - https://www.amazon.com/dp/B07RZBVTGR
-Solar Charger Regulator (Miniboard) w/ 3 bank 18650 holder - 20.54 - https://www.amazon.com/dp/B0CT7TG2WF
-12 pc Gas Sensor Detectors MQ-2,3,4,5,6,7,8,9,135 - 17.11 - https://www.amazon.com/dp/B0978KXFCQ
-PMS5003 2.5 micrometer AQI Dust Sensor - $18.99 - https://www.amazon.com/dp/B0B1J8FQ7M
-DHT22 / AM2302 Digital Temp and Humidity Sensor - 7.57 - https://www.amazon.com/dp/B01N9BA0O4
-LM393 - Light Detection Sensor - 5.95 - https://www.amazon.com/dp/B07XFZ99XL
-IP67 Waterproof project box - 38.49 - https://www.amazon.com/dp/B08282VRXW
-Nylon Plastic 3 - 6.5mm Waterproof Cable Glands - 12.99 - https://www.amazon.com/dp/B094ZFG7DB
-22 AWG wire spool - 36.99 - https://www.amazon.com/dp/B079GK9BJ4
-4 18650 Rechargable LiPo battery Cells w/ Wall Charger - 28.95 - Liionwholesale.com - P#s (4x - EVE-18650-33V, 1x - xtar-mc2plus_wall)
+* Mega2560 - R2 - 25.00 - No longer manufactured
+* 20W 12V Solar panel - 32.09 - https://www.amazon.com/dp/B07RZBVTGR
+* Solar Charger Regulator (Miniboard) w/ 3 bank 18650 holder - 20.54 - https://www.amazon.com/dp/B0CT7TG2WF
+* 12 pc Gas Sensor Detectors MQ-2,3,4,5,6,7,8,9,135 - 17.11 - https://www.amazon.com/dp/B0978KXFCQ
+* PMS5003 2.5 micrometer AQI Dust Sensor - $18.99 - https://www.amazon.com/dp/B0B1J8FQ7M
+* DHT22 / AM2302 Digital Temp and Humidity Sensor - 7.57 - https://www.amazon.com/dp/B01N9BA0O4
+* LM393 - Light Detection Sensor - 5.95 - https://www.amazon.com/dp/B07XFZ99XL
+* IP67 Waterproof project box - 38.49 - https://www.amazon.com/dp/B08282VRXW
+* Nylon Plastic 3 - 6.5mm Waterproof Cable Glands - 12.99 - https://www.amazon.com/dp/B094ZFG7DB
+* 22 AWG wire spool - 36.99 - https://www.amazon.com/dp/B079GK9BJ4
+* 4 18650 Rechargable LiPo battery Cells w/ Wall Charger - 28.95 - Liionwholesale.com - P#s (4x - EVE-18650-33V, 1x - xtar-mc2plus_wall)
 
 (Waiting to purchase)
-SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
-BME280 Temperature, Humidity, and Barometric Pressure Sensor - 13.39 - https://www.amazon.com/BME280-Environmental-Sensor-Temperature-Atmospheric/dp/B088HJHJXG
-Weather Meter Kit (Includes Anamometer, Wind Direction, and Rain Gauge - RJ11 Terminated) - 79.95 - https://www.amazon.com/Weather-Meter-Kit-Anemometer-terminated/dp/B084DBXMPX
-AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
-Anamometer 3 Cup Replacement - 15.99 - https://www.amazon.com/Toddmomy-Replacement-Anemometer-Detector-Weather/dp/B0CQZTWSCF
-30mm 3.3 / 5V Fans - 9.99 - https://www.amazon.com/Easycargo-Raspberry-30x30x7mm-Brushless-30mmx30mmx7mm/dp/B0792BW2VH
-DS3231 / AT24C32 RTC - 5.99 - https://www.amazon.com/dp/B07Q7NZTQS
+* SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
+* BME280 Temperature, Humidity, and Barometric Pressure Sensor - 13.39 - https://www.amazon.com/BME280-Environmental-Sensor-Temperature-Atmospheric/dp/B088HJHJXG
+* Weather Meter Kit (Includes Anamometer, Wind Direction, and Rain Gauge - RJ11 Terminated) - 79.95 - https://www.amazon.com/Weather-Meter-Kit-Anemometer-terminated/dp/B084DBXMPX
+* AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
+* Anamometer 3 Cup Replacement - 15.99 - https://www.amazon.com/Toddmomy-Replacement-Anemometer-Detector-Weather/dp/B0CQZTWSCF
+* 30mm 3.3 / 5V Fans - 9.99 - https://www.amazon.com/Easycargo-Raspberry-30x30x7mm-Brushless-30mmx30mmx7mm/dp/B0792BW2VH
+* DS3231 / AT24C32 RTC - 5.99 - https://www.amazon.com/dp/B07Q7NZTQS
 
 Various Items - 
-M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
-IoT cellular card.
-Voltage converter 1.8V to 20V (adjustable)
-3d Print louvers for project box.
-Federal Signal Model 2t siren case - may have to fabricate this on a smaller scale... the Federal Signal Model 2T is 24" tall and 15" diameter... that's too large.  
-Maybe use a galvanized chimney pipe and cap.
+* M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
+* IoT cellular card.
+* Voltage converter 1.8V to 20V (adjustable)
+* 3d Print louvers for project box.
+* Federal Signal Model 2t siren case - may have to fabricate this on a smaller scale... the Federal Signal Model 2T is 24" tall and 15" diameter... that's too large.  
+* Maybe use a galvanized chimney pipe and cap.
 
 2nd - Software Requirements -
 
