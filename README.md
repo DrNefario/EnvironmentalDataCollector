@@ -27,12 +27,14 @@ What I have come up with is the following parts list:
 
 (Already Purchased)
 * Mega2560 - R2 - 25.00 - No longer manufactured
+* Mega 2560 Stand Off set
 * 20W 12V Solar panel - 32.09 - https://www.amazon.com/dp/B07RZBVTGR
 * Solar Charger Regulator (Miniboard) w/ 3 bank 18650 holder - 20.54 - https://www.amazon.com/dp/B0CT7TG2WF
 * 12 pc Gas Sensor Detectors MQ-2,3,4,5,6,7,8,9,135 - 17.11 - https://www.amazon.com/dp/B0978KXFCQ
 * PMS5003 2.5 micrometer AQI Dust Sensor - $18.99 - https://www.amazon.com/dp/B0B1J8FQ7M
 * DHT22 / AM2302 Digital Temp and Humidity Sensor - 7.57 - https://www.amazon.com/dp/B01N9BA0O4
 * LM393 - Light Detection Sensor - 5.95 - https://www.amazon.com/dp/B07XFZ99XL
+* Intensity Sensor BH1750FVI - 9.41 -Light https://www.amazon.com/gp/product/B07YYYKG4S/
 * IP67 Waterproof project box - 38.49 - https://www.amazon.com/dp/B08282VRXW
 * Nylon Plastic 3 - 6.5mm Waterproof Cable Glands - 12.99 - https://www.amazon.com/dp/B094ZFG7DB
 * 22 AWG wire spool - 36.99 - https://www.amazon.com/dp/B079GK9BJ4
@@ -46,6 +48,7 @@ What I have come up with is the following parts list:
 * AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
 * Anamometer 3 Cup Replacement - 15.99 - https://www.amazon.com/Toddmomy-Replacement-Anemometer-Detector-Weather/dp/B0CQZTWSCF
 * 30mm 3.3 / 5V Fans - 9.99 - https://www.amazon.com/Easycargo-Raspberry-30x30x7mm-Brushless-30mmx30mmx7mm/dp/B0792BW2VH
+* LTR390-UV UV Intensity Sensor - 14.95 - https://www.amazon.com/waveshare-LTR390-UV-Ultraviolet-Compatible-forArduino/dp/B0CHJL143Z
 
 Various Items - 
 * M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
