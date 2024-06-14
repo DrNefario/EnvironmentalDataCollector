@@ -69,9 +69,11 @@ JSON object with the time and distance of the strike.
 When the barmometric pressure raises (high pressure system), this transmission rate should return to every 5 minutes, and power down the lightning sensor.
                                 
 
-3rd - Backend requirements - Since this is designed to be a stand alone system with no access to Wifi or a network, the only other means of communication is via cellular.  
+3rd - Backend requirements - 
 
- Server with NoSQL DB (DynamoDB)
- AWS Private 5G interface
- Webserver to build code to analyze the data and serve reports / send SMS for AQI alerts.
- Static web address (.com) - Goodings.com?
+Since this is designed to be a stand alone system with no access to Wifi or a network, the only other means of communication is via cellular.  
+
+Server with NoSQL DB (DynamoDB)
+AWS Private 5G interface
+Webserver to build code to analyze the data and serve reports / send SMS for AQI alerts.
+Static web address (.com) - Goodings.com?
