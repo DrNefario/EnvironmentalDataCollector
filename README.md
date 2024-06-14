@@ -37,15 +37,15 @@ What I have come up with is the following parts list:
 * Nylon Plastic 3 - 6.5mm Waterproof Cable Glands - 12.99 - https://www.amazon.com/dp/B094ZFG7DB
 * 22 AWG wire spool - 36.99 - https://www.amazon.com/dp/B079GK9BJ4
 * 4 18650 Rechargable LiPo battery Cells w/ Wall Charger - 28.95 - Liionwholesale.com - P#s (4x - EVE-18650-33V, 1x - xtar-mc2plus_wall)
+* DS3231 / AT24C32 RTC - 5.99 - https://www.amazon.com/dp/B07Q7NZTQS
+* BME280 Temperature, Humidity, and Barometric Pressure Sensor - 13.39 - https://www.amazon.com/BME280-Environmental-Sensor-Temperature-Atmospheric/dp/B088HJHJXG
 
 (Waiting to purchase)
 * SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
-* BME280 Temperature, Humidity, and Barometric Pressure Sensor - 13.39 - https://www.amazon.com/BME280-Environmental-Sensor-Temperature-Atmospheric/dp/B088HJHJXG
 * Weather Meter Kit (Includes Anamometer, Wind Direction, and Rain Gauge - RJ11 Terminated) - 79.95 - https://www.amazon.com/Weather-Meter-Kit-Anemometer-terminated/dp/B084DBXMPX
 * AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
 * Anamometer 3 Cup Replacement - 15.99 - https://www.amazon.com/Toddmomy-Replacement-Anemometer-Detector-Weather/dp/B0CQZTWSCF
 * 30mm 3.3 / 5V Fans - 9.99 - https://www.amazon.com/Easycargo-Raspberry-30x30x7mm-Brushless-30mmx30mmx7mm/dp/B0792BW2VH
-* DS3231 / AT24C32 RTC - 5.99 - https://www.amazon.com/dp/B07Q7NZTQS
 
 Various Items - 
 * M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
