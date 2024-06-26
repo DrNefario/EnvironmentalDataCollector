@@ -41,22 +41,23 @@ What I have come up with is the following parts list:
 * 4 18650 Rechargable LiPo battery Cells w/ Wall Charger - 28.95 - Liionwholesale.com - P#s (4x - EVE-18650-33V, 1x - xtar-mc2plus_wall)
 * DS3231 / AT24C32 RTC - 5.99 - https://www.amazon.com/dp/B07Q7NZTQS
 * BME280 Temperature, Humidity, and Barometric Pressure Sensor - 13.39 - https://www.amazon.com/BME280-Environmental-Sensor-Temperature-Atmospheric/dp/B088HJHJXG
+* AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
+* LTR390-UV UV Intensity Sensor - 14.95 - https://www.amazon.com/waveshare-LTR390-UV-Ultraviolet-Compatible-forArduino/dp/B0CHJL143Z
+* M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
+
 
 (Waiting to purchase)
 * SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
 * Weather Meter Kit (Includes Anamometer, Wind Direction, and Rain Gauge - RJ11 Terminated) - 79.95 - https://www.amazon.com/Weather-Meter-Kit-Anemometer-terminated/dp/B084DBXMPX
-* AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
 * Anamometer 3 Cup Replacement - 15.99 - https://www.amazon.com/Toddmomy-Replacement-Anemometer-Detector-Weather/dp/B0CQZTWSCF
 * 30mm 3.3 / 5V Fans - 9.99 - https://www.amazon.com/Easycargo-Raspberry-30x30x7mm-Brushless-30mmx30mmx7mm/dp/B0792BW2VH
-* LTR390-UV UV Intensity Sensor - 14.95 - https://www.amazon.com/waveshare-LTR390-UV-Ultraviolet-Compatible-forArduino/dp/B0CHJL143Z
+* Find IoT cellular card that won't kill my budget.
 
-Various Items - 
-* M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
-* IoT cellular card.
-* Voltage converter 1.8V to 20V (adjustable)
-* 3d Print louvers for project box.
-* Federal Signal Model 2t siren case - may have to fabricate this on a smaller scale... the Federal Signal Model 2T is 24" tall and 15" diameter... that's too large.  
-* Maybe use a galvanized chimney pipe and cap.
+IN PROGRESS - 
+
+* 3d Print louvers for project box.  I used a Thingiverse table router base centering tool - https://www.thingiverse.com/thing:1989670  Then scaled it up to be larger on my Finder.
+* The diameter should be 4.65 inches.  I've sliced the original STL into a few different patterns but when all said and done, it should look like a miniature Model 2T siren (just like I wanted)
+
 
 2nd - Software Requirements -
 
@@ -72,11 +73,11 @@ JSON object with the time and distance of the strike.
 When the barmometric pressure raises (high pressure system), this transmission rate should return to every 5 minutes, and power down the lightning sensor.
                                 
 
-3rd - Backend requirements - 
+3rd - AWS Backend requirements - 
 
 Since this is designed to be a stand alone system with no access to Wifi or a network, the only other means of communication is via cellular.  
 
 Server with NoSQL DB (DynamoDB)
-AWS Private 5G interface
+AWS 5G interface or IoT interface.
 Webserver to build code to analyze the data and serve reports / send SMS for AQI alerts.
-Static web address (.com) - Goodings.com?
+Static web address - goodings-sandbox.com - Purchased!
