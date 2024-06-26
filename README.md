@@ -48,9 +48,7 @@ What I have come up with is the following parts list:
 
 (Waiting to purchase)
 * SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
-<strikethrough>* Weather Meter Kit (Includes Anamometer, Wind Direction, and Rain Gauge - RJ11 Terminated) - 79.95 - https://www.amazon.com/Weather-Meter-Kit-Anemometer-terminated/dp/B084DBXMPX
-* Anamometer 3 Cup Replacement - 15.99 - https://www.amazon.com/Toddmomy-Replacement-Anemometer-Detector-Weather/dp/B0CQZTWSCF</strikethrough>
-Continuing to look for a good basic IP67 weather station that will give wind and rain fall data.
+* Continuing to look for a good basic IP67 weather station that will give wind and rain fall data.
 * Find IoT cellular card that won't kill my budget.
 
 IN PROGRESS - 
