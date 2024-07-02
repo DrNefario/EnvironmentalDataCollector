@@ -44,10 +44,10 @@ What I have come up with is the following parts list:
 * AS3935 Lightning Detector - 27.99 - https://www.amazon.com/JESSINIE-Lightning-MA5532-AE-Lighting-Detection/dp/B0BG2GN6T5
 * LTR390-UV UV Intensity Sensor - 14.95 - https://www.amazon.com/waveshare-LTR390-UV-Ultraviolet-Compatible-forArduino/dp/B0CHJL143Z
 * M2.5 / M3 Screws / Nuts / Brass Stand Offs, Isolators, Project Board for Mega2560, Various Wires, Connectors, etc.
-
+* SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
 
 (Waiting to purchase)
-* SIM7000A LTE CAT-M1 NB-IoT Cellular / GPS shield - 69.00 - https://www.amazon.com/dp/B07H3XKNLH
+
 * Continuing to look for a good basic IP67 weather station that will give wind and rain fall data.
 * Find IoT cellular card that won't kill my budget.
 
