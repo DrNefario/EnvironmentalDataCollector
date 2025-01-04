@@ -1,0 +1,71 @@
+{
+	"id": "edc01bbf-18d2-48bc-a944-8ca10d4e550e",
+	"timestamp": "{$datetime}",
+	"sysstatus": "{$status}"
+	"sensors": {
+		"mppt": {
+			"xaxis": "{$xaxis}",
+			"yaxis": "{$yaxis}",
+			"voltagein": "{$voltagein}",
+			"batterylevel": "{$batterylevel}",
+			"dischargevolts": "{$dischargevoltage}",
+			"dischargeamps": "{$dischargeamps}"
+		},
+		"uv": {
+			"uvindex": "{$uvindex}"
+		}, 
+		"lux": {
+			"luxindex": "{$luxindex}"
+		},
+		"internaltemp": {
+			"temp": "{$temp1}",
+			"fanstatus": "{$fanstatus}"
+		},
+		"barometrix": {
+			"extemp": "{$extemp}",
+			"humidity": "{$humidity}",
+			"pressure": "{$kpa}",
+			"elevation": "{$elevation}"
+		},
+		"lightning": {
+			"distance": "{$distancekm}",
+			"direction": "{$direction}"
+		},
+		"aqi": {
+			"30micro": "{$30micro}",
+			"10micro": "{$10micro}",
+			"3micro": "{$3micro}"
+		},
+		"sniffer": {
+			"mq2": "{$mq2}",
+			"mq3": "{$mq3}",
+			"mq4": "{$mq4}",
+			"mq5": "{$mq5}",
+			"mq6": "{$mq6}",
+			"mq7": "{$mq7}",
+			"mq8": "{$mq8}",
+			"mq9": "{$mq9}",
+			"mq131": "{$mq131}",
+			"mq135": "{$mq135}",
+			"mq136": "{$mq136}",
+			"mq137": "{$mq137}",
+			"mq303a": "{$mq303a}",
+			"mq307a": "{$mq307a}",
+			"mq309a": "{$mq309a}",
+		},
+		"gieger": {
+			"cps": "{$cps}",
+			"energy": "{$energy}",
+			"type": "{$type}"
+		},
+		"weatherbox": {
+			"windspd": "{$windspd}",
+			"winddir": "{$winddir}",
+			"rainlevel": "{$rain}"
+		},
+		"cell": {
+			"sigstr": "{$sigstr}",
+			"packetsize": "{$packetsize}",
+			"batlevel": "{$batlevel}"
+	}
+}	
