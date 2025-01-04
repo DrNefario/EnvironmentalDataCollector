@@ -67,5 +67,6 @@
 			"sigstr": "{$sigstr}",
 			"packetsize": "{$packetsize}",
 			"batlevel": "{$batlevel}"
+		}
 	}
 }	
