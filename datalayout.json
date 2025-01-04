@@ -32,9 +32,9 @@
 			"direction": "{$direction}"
 		},
 		"aqi": {
-			"30micro": "{$30micro}",
 			"10micro": "{$10micro}",
-			"3micro": "{$3micro}"
+			"2_5micro": "{$2_5micro}",
+			"1micro": "{$1micro}"
 		},
 		"sniffer": {
 			"mq2": "{$mq2}",
