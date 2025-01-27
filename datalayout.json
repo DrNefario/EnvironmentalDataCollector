@@ -1,7 +1,7 @@
 {
 	"id": "edc01bbf-18d2-48bc-a944-8ca10d4e550e",
 	"timestamp": "{$datetime}",
-	"sysstatus": "{$status}"
+	"sysstatus": "{$status}",
 	"sensors": {
 		"mppt": {
 			"xaxis": "{$xaxis}",
